@@ -1,0 +1,53 @@
+body {
+  background-color: rgb(255, 43, 43);
+  color: whitesmoke;
+  margin-left: 30px;
+  margin-right: 30px;
+  font-size: 20px;
+}
+
+hr {
+  background-color: #ffffff;
+  border: none;
+  width: 40%;
+}
+
+h2 {
+  font-size: 130px;
+  text-decoration: whitesmoke underline;
+  text-shadow: 7px 4px 8px black;
+}
+
+a {
+  color: black;
+  border: 1px solid black;
+  padding: 2px;
+}
+
+/* Class selector*/
+
+.manishlogo_jpg {
+  border-radius: 50%;
+  width: 500px;
+  height: 500px;
+  border: 5px solid rgb(144, 0, 0);
+}
+
+.page1_main_header {
+  color: whitesmoke;
+  text-decoration: whitesmoke;
+  text-shadow: 7px 7px 10px black;
+}
+
+.body_page2 {
+  margin-left: 25px;
+}
+
+.table_form {
+  border: 1px solid whitesmoke;
+  padding: 25px;
+}
+
+.contact_details {
+  text-decoration: underline whitesmoke;
+}
